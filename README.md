@@ -49,8 +49,8 @@ The site includes:
 
 - All HTML pages and CSS pass **W3C validation**  
 - Site is published on **GitHub Pages**:  
-  **Live URL:** [https://yourusername.github.io/campusguide-2026](https://yourusername.github.io/campusguide-2026)  
-  **Repository URL:** [https://github.com/yourusername/campusguide-2026](https://github.com/yourusername/campusguide-2026)  
+  **Live URL:** [https://adnanadi10-lgtm.github.io/HW1-Campus-Events/](https://adnanadi10-lgtm.github.io/HW1-Campus-Events/)  
+  **Repository URL:** [https://github.com/adnanadi10-lgtm/HW1-Campus-Events](https://github.com/adnanadi10-lgtm/HW1-Campus-Events)  
 
 ---
 
